@@ -11,7 +11,7 @@ public class Node<T>
         return NextNode != null;
     }
 
-    public Node(T value, Node<T> prevNode, Node<T> nextNode)
+            public Node(T value, Node<T> prevNode, Node<T> nextNode)
     {
         Value = value;
         PrevNode = prevNode;
@@ -19,3 +19,4 @@ public class Node<T>
     }
 }
 
+// I think the code is formatted incorrectly
