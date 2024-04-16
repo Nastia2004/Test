@@ -18,4 +18,6 @@ public class Node<T>
         NextNode = nextNode;
     }
 }
+Dmytro Add comment
+
 
